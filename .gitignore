@@ -1,0 +1,15 @@
+# ChromaDB — пересоздаётся при запуске, слишком большой для Git
+chroma_db/
+
+# PDF с правилами — большой бинарный файл
+data/*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Системные
+.DS_Store
+Thumbs.db
